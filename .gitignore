@@ -1,0 +1,7 @@
+# Blender
+*.blend
+*.blend1
+
+# Системное
+Thumbs.db
+.DS_Store
